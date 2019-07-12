@@ -28,7 +28,7 @@
     "grpc-web-client": "^0.7.0",
     "iroha-helpers": "0.6.19-beta.0",
     "json2csv": "^4.2.1",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.12",
     "numbro": "^2.1.0",
     "pdfmake-lite": "^0.1.36",
     "qrcode.vue": "^1.6.0",
