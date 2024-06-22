@@ -36,7 +36,7 @@
     "timezones.json": "^1.4.5",
     "vue": "^2.5.17",
     "vue-clipboard2": "^0.2.1",
-    "vue-echarts": "^3.1.1",
+    "vue-echarts": "^4.0.0",
     "vue-router": "^3.0.1",
     "vuelidate": "^0.7.4",
     "vuex": "^3.0.1"
