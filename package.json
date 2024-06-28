@@ -20,7 +20,7 @@
     "cryptocoins-icons": "^2.9.0",
     "csv.js": "^1.0.6",
     "date-fns": "^1.29.0",
-    "echarts": "^4.1.0",
+    "echarts": "^5.5.1",
     "ed25519.js": "^1.3.0",
     "element-theme": "^2.0.1",
     "element-ui": "^2.4.6",
